@@ -5,6 +5,6 @@ public class MainTest {
     @Test
     public void testHello() {
         String msg = "Hello, World!";
-        assertEquals("Hello, World11!", msg);
+        assertEquals("Hello, World!", msg);
     }
 }
